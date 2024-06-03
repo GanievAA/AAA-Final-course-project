@@ -1,0 +1,47 @@
+{
+    "os": "Windows-10-10.0.22000-SP0",
+    "python": "3.11.5",
+    "heartbeatAt": "2024-05-26T06:36:49.010273",
+    "startedAt": "2024-05-26T06:36:47.497823",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "WD/Avito Analytics Academy/AAA Final project/env/Train YOLO v8.ipynb",
+    "codePathLocal": null,
+    "root": "C:\\Users\\shgan",
+    "host": "MSI",
+    "username": "shgan",
+    "executable": "C:\\Users\\shgan\\anaconda3\\python.exe",
+    "cpu_count": 16,
+    "cpu_count_logical": 24,
+    "cpu_freq": {
+        "current": 2000.0,
+        "min": 0.0,
+        "max": 2000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2000.0,
+            "min": 0.0,
+            "max": 2000.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1885.9257774353027,
+            "used": 416.59708404541016
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3080 Ti Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3080 Ti Laptop GPU",
+            "memory_total": 17179869184
+        }
+    ],
+    "memory": {
+        "total": 31.708576202392578
+    }
+}

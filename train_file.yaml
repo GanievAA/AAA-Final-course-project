@@ -1,0 +1,13 @@
+
+path: C:/Users/shgan/WD/Avito Analytics Academy/AAA Final project/env/YOLO data
+train: images/train
+val: images/val
+
+# classses
+names:
+    0: cian
+    1: hh
+    2: domclick
+    3: autoru
+    4: drom
+    
