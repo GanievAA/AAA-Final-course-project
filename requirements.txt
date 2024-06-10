@@ -1,0 +1,11 @@
+aiohttp-jinja2==1.6
+aiohttp==3.9.3
+easyocr==1.7.1
+ultralytics==8.1.27
+opencv-python
+dill==0.3.8
+
+
+
+
+
